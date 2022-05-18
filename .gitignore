@@ -1,5 +1,6 @@
 fp-info-cache
 breadboard_power_supply-backups/*
+breadboard_power_supply.kicad_prl
 Gerber/*
 plot/*
 *.kicad_sch-bak
