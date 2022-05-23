@@ -1,3 +1,5 @@
 (sym_lib_table
-  (lib (name "digkey_slide_switch")(type "Legacy")(uri "F:/KiCad_Projects_git/_proj_libr/digikey-kicad-library-master/digikey-symbols/dk_Slide-Switches.lib")(options "")(descr "slide switch"))
+  (lib (name "Slide_Switch")(type "KiCad")(uri "F:/KiCad_Projects/_proj_libr/EG1218/EG1218.kicad_sym")(options "")(descr "Switch_symbol"))
+  (lib (name "Slide_Switch_2")(type "KiCad")(uri "F:/KiCad_Projects/_proj_libr/EG1218_2/EG1218.kicad_sym")(options "")(descr "Switch_symbol")(disabled))
+  (lib (name "Slide_Switch_3")(type "Legacy")(uri "F:/KiCad_Projects/_proj_libr/MSS-102545-28A-D/MSS-102545-28A-D.lib")(options "")(descr "Switch_symbol")(disabled))
 )
