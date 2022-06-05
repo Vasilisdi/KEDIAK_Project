@@ -399,12 +399,7 @@
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
         "name": "POWER_OUTPUT",
-        "nets": [
-          "/3.3V",
-          "/5V",
-          "/PWR_OUT_BOTTOM",
-          "/PWR_OUT_TOP"
-        ],
+        "nets": [],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.35,
@@ -417,8 +412,8 @@
       "version": 2
     },
     "net_colors": {
-      "/3.3V": "rgb(0, 255, 0)",
-      "/5V": "rgb(255, 0, 0)"
+      "/VCCA": "rgb(255, 0, 0)",
+      "/VCCB": "rgb(0, 255, 0)"
     }
   },
   "pcbnew": {

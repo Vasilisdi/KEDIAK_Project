@@ -1,3 +1,5 @@
 (sym_lib_table
   (lib (name "digkey_slide_switch")(type "Legacy")(uri "F:/KiCad_Projects_git/_proj_libr/digikey-kicad-library-master/digikey-symbols/dk_Slide-Switches.lib")(options "")(descr "slide switch"))
+  (lib (name "PJ-063AH")(type "Legacy")(uri "F:/KiCad_Projects_git/_proj_libr/PJ-063AH/PJ-063AH.lib")(options "")(descr ""))
+  (lib (name "PJ-059AH")(type "Legacy")(uri "F:/KiCad_Projects_git/_proj_libr/PJ-059AH/PJ-059AH.lib")(options "")(descr ""))
 )
