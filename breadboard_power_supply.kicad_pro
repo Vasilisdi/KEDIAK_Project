@@ -369,7 +369,7 @@
         "wire_width": 6.0
       },
       {
-        "bus_width": 12.0,
+        "bus_width": 15.748031496062993,
         "clearance": 0.25,
         "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
@@ -380,17 +380,17 @@
         "name": "POWER_INPUT",
         "nets": [
           "/12V",
-          "/PWR_INPUT"
+          "GND"
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "schematic_color": "rgb(62, 54, 255)",
         "track_width": 0.35,
         "via_diameter": 0.9,
         "via_drill": 0.5,
-        "wire_width": 6.0
+        "wire_width": 9.84251968503937
       },
       {
-        "bus_width": 12.0,
+        "bus_width": 15.748031496062993,
         "clearance": 0.25,
         "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
@@ -399,13 +399,17 @@
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
         "name": "POWER_OUTPUT",
-        "nets": [],
+        "nets": [
+          "/PWR_OUT",
+          "/VCCA",
+          "/VCCB"
+        ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "schematic_color": "rgb(255, 38, 47)",
         "track_width": 0.35,
         "via_diameter": 0.9,
         "via_drill": 0.5,
-        "wire_width": 6.0
+        "wire_width": 9.84251968503937
       }
     ],
     "meta": {
