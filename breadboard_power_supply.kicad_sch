@@ -1792,7 +1792,7 @@
     (property "Footprint" "Package_TO_SOT_THT:TO-220-3_Vertical" (id 2) (at 124.46 40.005 0)
       (effects (font (size 1.27 1.27) italic) hide)
     )
-    (property "Datasheet" "https://www.onsemi.cn/PowerSolutions/document/MC7800-D.PDF" (id 3) (at 124.46 46.99 0)
+    (property "Datasheet" "https://www.tme.eu/Document/8aa8ed83dc2f8e8a5f3ad4a71fd201bc/lm7805.pdf" (id 3) (at 124.46 46.99 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Rating" "1 [A]" (id 4) (at 124.46 45.72 0)
@@ -1981,7 +1981,7 @@
     (property "Reference" "R2" (id 0) (at 73.66 101.5999 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "330" (id 1) (at 73.66 104.1399 0)
+    (property "Value" "470" (id 1) (at 73.66 104.1399 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Footprint" "Resistor_SMD:R_0805_2012Metric" (id 2) (at 72.898 102.87 90)
@@ -2435,7 +2435,7 @@
       (reference "R1") (unit 1) (value "180") (footprint "Resistor_SMD:R_0805_2012Metric")
     )
     (path "/6fe50946-2be9-4286-9b3d-a1ad70deb934"
-      (reference "R2") (unit 1) (value "330") (footprint "Resistor_SMD:R_0805_2012Metric")
+      (reference "R2") (unit 1) (value "470") (footprint "Resistor_SMD:R_0805_2012Metric")
     )
     (path "/e6b45546-c8d6-458a-90b9-8ea17a804c93"
       (reference "R3") (unit 1) (value "560") (footprint "Resistor_SMD:R_0805_2012Metric")
