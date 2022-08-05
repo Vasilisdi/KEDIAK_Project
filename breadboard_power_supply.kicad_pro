@@ -378,7 +378,10 @@
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
         "name": "POWER_INPUT",
-        "nets": [],
+        "nets": [
+          "/12V",
+          "GND"
+        ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgb(62, 54, 255)",
         "track_width": 0.35,
@@ -396,7 +399,12 @@
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
         "name": "POWER_OUTPUT",
-        "nets": [],
+        "nets": [
+          "/VCCA",
+          "/VCCB",
+          "Net-(D1-Pad2)",
+          "Net-(R1-Pad1)"
+        ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgb(255, 38, 47)",
         "track_width": 0.35,
