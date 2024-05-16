@@ -21,18 +21,8 @@ This project, associated with the RISKAC research program, aims to collect envir
 - **Data Storage and Management**: Data collected by the sensors is stored in CSV files using Spyder platform. The last instance of stored data is then stored in a database for further analysis and retrieval.
 - **3D-Printed Case**: A protective case with humidity-removing extruded features has been 3D-printed to safeguard electronic components and ensure reliable operation in varying environmental conditions.
 
-## Project Progression
+## Project Progression on Kicad
 
-The project began with a power breadboard prototype and evolved into the development of a sophisticated PCB that meets the communication and power supply needs of the integrated sensors. 
+The project began with a power breadboard prototype and evolved into the development of a sophisticated PCB that meets the communication and power supply needs of the integrated sensors. Below is a visual representation of the project in the KiCAD environment:
+![image](https://github.com/Vasilisdi/KEDIAK_Project/assets/24864439/77df36dd-4feb-4767-8f39-85df7f977e50)
 
-## Usage
-
-[Provide instructions on how to use the system for data collection and analysis]
-
-## License
-
-[Specify the license under which your project is distributed]
-
-## Contact
-
-[Provide contact information for inquiries or support]
